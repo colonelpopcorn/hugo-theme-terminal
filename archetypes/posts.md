@@ -1,10 +1,10 @@
-+++
-title = ""
-date = ""
-author = ""
-cover = ""
-tags = ["", ""]
-keywords = ["", ""]
-description = ""
-showFullContent = false
-+++
+---
+title: ""
+date: ""
+author: ""
+cover: ""
+tags: ["", ""]
+keywords: ["", ""]
+description: ""
+showFullContent: false
+---
